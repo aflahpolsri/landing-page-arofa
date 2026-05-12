@@ -1,2 +1,2 @@
-# mini-lab-management
-Mini Lab Management
+# komputer-aksesori
+Contoh Landing Page tentang Komputer dan Akesoris
