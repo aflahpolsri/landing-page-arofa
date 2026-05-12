@@ -1,2 +1,2 @@
-# komputer-aksesori
-Contoh Landing Page tentang Komputer dan Akesoris
+# Landing Page Arofa
+Contoh Landing Page Arofa Berkah Solusi
